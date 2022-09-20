@@ -4,4 +4,4 @@ jobs:
   note-update:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "A new repository or branch has been created! :tada:"
+      - run: echo "A new repository or branch has been created! 🎉"
